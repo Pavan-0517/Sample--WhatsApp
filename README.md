@@ -2,7 +2,9 @@
 
 ## Quick Navigation
 - [Getting Started](docs/getting-started.md)
-- [Installation](docs/installation/installation-android.md)
+- [Installation-android](/docs/installation-android.md)
+- [Installation-ios](/docs/installation-desktop.md)
+- [Installation-desktop](/docs/installation-desktop.md)
 - [User Guide](docs/user-guide.md)
 - [UPI & Payments](docs/upi.md)
 - [Troubleshooting](docs/troubleshooting.md)
